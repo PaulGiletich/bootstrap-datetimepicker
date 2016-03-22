@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-datetimepicker",
   "main": "src/js/bootstrap-datetimepicker.js",
-  "version": "3.1.4",
+  "version": "3.1.5",
   "repository": {
     "type": "git",
     "url": "https://github.com/eonasdan/bootstrap-datetimepicker.git"
@@ -23,7 +23,7 @@
   },
   "peerDependencies": {
     "bootstrap": "3.x"
-  }
+  },
   "devDependencies": {
     "grunt": "latest",
     "grunt-contrib-jshint": "latest",
