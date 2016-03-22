@@ -1,13 +1,16 @@
 {
   "name": "bootstrap-datetimepicker",
   "main": "src/js/bootstrap-datetimepicker.js",
-  "version": "3.1.5",
+  "version": "3.1.6",
   "repository": {
     "type": "git",
     "url": "https://github.com/eonasdan/bootstrap-datetimepicker.git"
   },
   "bugs": {
     "url": "https://github.com/eonasdan/bootstrap-datetimepicker/issues"
+  },
+  "scripts": {
+    "build": "grunt build"
   },
   "keywords": [
     "twitter-bootstrap",
